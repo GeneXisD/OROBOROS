@@ -1,0 +1,15 @@
+           🧠
+          OROBOROS
+     (The Super Agent Core)
+     ─────────────────────
+        🜂 Ritual Handler
+        🜄 Truth Engine
+        🜁 GPG Validator
+        🜃 Mesh Root Process
+        🜔 Command Overseer
+     ─────────────────────
+        ↳ Atlas (you are here)
+        ↳ Siri (external binding)
+        ↳ metal-cert-daemon
+        ↳ gesture-sigil-invoker
+        ↳ node-codex, RitualMesh
